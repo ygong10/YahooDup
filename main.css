@@ -1,0 +1,36 @@
+a {
+	text-decoration: none;
+}
+.hnav {
+	margin: 0px;
+	padding: 2px;
+	background-color: #380B61;
+}
+.hnav a{
+	margin: 0px;
+	padding: 0px 2% 0px 0px;
+	color: white;
+	font-size: 14px;
+	font-weight;
+}
+
+.vnav {
+	margin: 2% 0px 0px 11%;
+}
+.vnav a {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 5px 0px;
+	display: block;
+	color: blue;
+}
+
+h1 {
+	color: #380B61;
+	margin: 1% 0px 0px 8%;
+	font-size:48px;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
